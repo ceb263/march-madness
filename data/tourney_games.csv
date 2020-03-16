@@ -1,0 +1,631 @@
+alias,market,season,opp_alias,opp_market,win
+PENN,Pennsylvania,2017,KU,Kansas,FALSE
+CLEM,Clemson,2017,AUB,Auburn,TRUE
+MSU,Michigan State,2017,SYR,Syracuse,FALSE
+CLEM,Clemson,2017,NMSU,New Mexico State,TRUE
+PROV,Providence,2017,TXAM,Texas A&M,FALSE
+L-IL,Loyola (IL),2017,NEV,Nevada,TRUE
+ALA,Alabama,2017,VT,Virginia Tech,TRUE
+KU,Kansas,2017,VILL,Villanova,FALSE
+KU,Kansas,2017,CLEM,Clemson,TRUE
+FLA,Florida,2017,TTU,Texas Tech,FALSE
+BUFF,Buffalo,2017,ARIZ,Arizona,TRUE
+DUKE,Duke,2017,KU,Kansas,FALSE
+GONZ,Gonzaga,2017,UNCG,UNC Greensboro,TRUE
+VILL,Villanova,2017,MICH,Michigan,TRUE
+VILL,Villanova,2017,KU,Kansas,TRUE
+URI,Rhode Island,2017,OKLA,Oklahoma,TRUE
+UK,Kentucky,2017,KSU,Kansas State,FALSE
+OKLA,Oklahoma,2017,URI,Rhode Island,FALSE
+UMBC,UMBC,2017,KSU,Kansas State,FALSE
+WVU,West Virginia,2017,MRSH,Marshall,TRUE
+FSU,Florida State,2017,GONZ,Gonzaga,TRUE
+MICH,Michigan,2017,FSU,Florida State,TRUE
+HOU,Houston,2017,SDSU,San Diego State,TRUE
+UVA,Virginia,2017,UMBC,UMBC,FALSE
+VILL,Villanova,2017,TTU,Texas Tech,TRUE
+AUB,Auburn,2017,CLEM,Clemson,FALSE
+L-IL,Loyola (IL),2017,MICH,Michigan,FALSE
+TXAM,Texas A&M,2017,UNC,North Carolina,TRUE
+TENN,Tennessee,2017,WRST,Wright State,TRUE
+CLEM,Clemson,2017,KU,Kansas,FALSE
+MIA,Miami (FL),2017,L-IL,Loyola (IL),FALSE
+HOU,Houston,2017,MICH,Michigan,FALSE
+NEV,Nevada,2017,L-IL,Loyola (IL),FALSE
+MICH,Michigan,2017,VILL,Villanova,FALSE
+CSF,Cal State Fullerton,2017,PUR,Purdue,FALSE
+CREI,Creighton,2017,KSU,Kansas State,FALSE
+SYR,Syracuse,2017,TCU,TCU,TRUE
+CIN,Cincinnati,2017,GAST,Georgia State,TRUE
+TENN,Tennessee,2017,L-IL,Loyola (IL),FALSE
+VILL,Villanova,2017,RAD,Radford,TRUE
+NCST,North Carolina State,2017,HALL,Seton Hall,FALSE
+KSU,Kansas State,2017,CREI,Creighton,TRUE
+ARIZ,Arizona,2017,BUFF,Buffalo,FALSE
+WICH,Wichita State,2017,MRSH,Marshall,FALSE
+DUKE,Duke,2017,URI,Rhode Island,TRUE
+SYR,Syracuse,2017,MSU,Michigan State,TRUE
+MICH,Michigan,2017,HOU,Houston,TRUE
+NMSU,New Mexico State,2017,CLEM,Clemson,FALSE
+ARK,Arkansas,2017,BUT,Butler,FALSE
+WVU,West Virginia,2017,VILL,Villanova,FALSE
+BUT,Butler,2017,PUR,Purdue,FALSE
+FSU,Florida State,2017,MICH,Michigan,FALSE
+KSU,Kansas State,2017,L-IL,Loyola (IL),FALSE
+URI,Rhode Island,2017,DUKE,Duke,FALSE
+XAV,Xavier,2017,TXSO,Texas Southern,TRUE
+KSU,Kansas State,2017,UK,Kentucky,TRUE
+SYR,Syracuse,2017,DUKE,Duke,FALSE
+WRST,Wright State,2017,TENN,Tennessee,FALSE
+DUKE,Duke,2017,IONA,Iona,TRUE
+FLA,Florida,2017,SBON,St. Bonaventure,TRUE
+DAV,Davidson,2017,UK,Kentucky,FALSE
+UNCG,UNC Greensboro,2017,GONZ,Gonzaga,FALSE
+SDST,South Dakota State,2017,OSU,Ohio State,FALSE
+OSU,Ohio State,2017,SDST,South Dakota State,TRUE
+NEV,Nevada,2017,TEX,Texas,TRUE
+TTU,Texas Tech,2017,SFA,Stephen F. Austin,TRUE
+XAV,Xavier,2017,FSU,Florida State,FALSE
+DUKE,Duke,2017,SYR,Syracuse,TRUE
+UK,Kentucky,2017,DAV,Davidson,TRUE
+MRSH,Marshall,2017,WICH,Wichita State,TRUE
+MIZZ,Missouri,2017,FSU,Florida State,FALSE
+SFA,Stephen F. Austin,2017,TTU,Texas Tech,FALSE
+BUFF,Buffalo,2017,UK,Kentucky,FALSE
+FSU,Florida State,2017,MIZZ,Missouri,TRUE
+OSU,Ohio State,2017,GONZ,Gonzaga,FALSE
+HALL,Seton Hall,2017,KU,Kansas,FALSE
+TTU,Texas Tech,2017,VILL,Villanova,FALSE
+VT,Virginia Tech,2017,ALA,Alabama,FALSE
+KSU,Kansas State,2017,UMBC,UMBC,TRUE
+FSU,Florida State,2017,XAV,Xavier,TRUE
+VILL,Villanova,2017,WVU,West Virginia,TRUE
+AUB,Auburn,2017,COFC,Charleston,TRUE
+COFC,Charleston,2017,AUB,Auburn,FALSE
+MONT,Montana,2017,MICH,Michigan,FALSE
+UNC,North Carolina,2017,TXAM,Texas A&M,FALSE
+NEV,Nevada,2017,CIN,Cincinnati,TRUE
+L-IL,Loyola (IL),2017,KSU,Kansas State,TRUE
+MICH,Michigan,2017,TXAM,Texas A&M,TRUE
+BUCK,Bucknell,2017,MSU,Michigan State,FALSE
+UK,Kentucky,2017,BUFF,Buffalo,TRUE
+TXAM,Texas A&M,2017,MICH,Michigan,FALSE
+TCU,TCU,2017,SYR,Syracuse,FALSE
+MURR,Murray State,2017,WVU,West Virginia,FALSE
+MSU,Michigan State,2017,BUCK,Bucknell,TRUE
+MICH,Michigan,2017,MONT,Montana,TRUE
+VILL,Villanova,2017,ALA,Alabama,TRUE
+KU,Kansas,2017,DUKE,Duke,TRUE
+TXSO,Texas Southern,2017,XAV,Xavier,FALSE
+MRSH,Marshall,2017,WVU,West Virginia,FALSE
+L-IL,Loyola (IL),2017,TENN,Tennessee,TRUE
+TEX,Texas,2017,NEV,Nevada,FALSE
+IONA,Iona,2017,DUKE,Duke,FALSE
+MICH,Michigan,2017,L-IL,Loyola (IL),TRUE
+TXAM,Texas A&M,2017,PROV,Providence,TRUE
+CIN,Cincinnati,2017,NEV,Nevada,FALSE
+UMBC,UMBC,2017,UVA,Virginia,TRUE
+GONZ,Gonzaga,2017,FSU,Florida State,FALSE
+TTU,Texas Tech,2017,PUR,Purdue,TRUE
+KU,Kansas,2017,HALL,Seton Hall,TRUE
+HALL,Seton Hall,2017,NCST,North Carolina State,TRUE
+ALA,Alabama,2017,VILL,Villanova,FALSE
+LIP,Lipscomb,2017,UNC,North Carolina,FALSE
+GONZ,Gonzaga,2017,OSU,Ohio State,TRUE
+KU,Kansas,2017,PENN,Pennsylvania,TRUE
+PUR,Purdue,2017,BUT,Butler,TRUE
+PUR,Purdue,2017,TTU,Texas Tech,FALSE
+TTU,Texas Tech,2017,FLA,Florida,TRUE
+SBON,St. Bonaventure,2017,FLA,Florida,FALSE
+RAD,Radford,2017,VILL,Villanova,FALSE
+WVU,West Virginia,2017,MURR,Murray State,TRUE
+BUT,Butler,2017,ARK,Arkansas,TRUE
+GAST,Georgia State,2017,CIN,Cincinnati,FALSE
+SDSU,San Diego State,2017,HOU,Houston,FALSE
+L-IL,Loyola (IL),2017,MIA,Miami (FL),TRUE
+PUR,Purdue,2017,CSF,Cal State Fullerton,TRUE
+UNC,North Carolina,2017,LIP,Lipscomb,TRUE
+GONZ,Gonzaga,2016,WVU,West Virginia,TRUE
+SMC,Saint Mary's,2016,ARIZ,Arizona,FALSE
+MSM,Mount St. Mary's,2016,VILL,Villanova,FALSE
+SDST,South Dakota State,2016,GONZ,Gonzaga,FALSE
+UK,Kentucky,2016,UNC,North Carolina,FALSE
+VT,Virginia Tech,2016,WIS,Wisconsin,FALSE
+BUT,Butler,2016,MTU,Middle Tennessee,TRUE
+CREI,Creighton,2016,URI,Rhode Island,FALSE
+NW,Northwestern,2016,GONZ,Gonzaga,FALSE
+UK,Kentucky,2016,UCLA,UCLA,TRUE
+ND,Notre Dame,2016,WVU,West Virginia,FALSE
+SMU,SMU,2016,USC,USC,FALSE
+GONZ,Gonzaga,2016,UNC,North Carolina,FALSE
+ARIZ,Arizona,2016,XAV,Xavier,FALSE
+SCAR,South Carolina,2016,MARQ,Marquette,TRUE
+MTU,Middle Tennessee,2016,BUT,Butler,FALSE
+NMSU,New Mexico State,2016,BAY,Baylor,FALSE
+UCLA,UCLA,2016,UK,Kentucky,FALSE
+BUT,Butler,2016,WIN,Winthrop,TRUE
+ARK,Arkansas,2016,UNC,North Carolina,FALSE
+UK,Kentucky,2016,NKU,Northern Kentucky,TRUE
+VAN,Vanderbilt,2016,NW,Northwestern,FALSE
+SCAR,South Carolina,2016,GONZ,Gonzaga,FALSE
+MSU,Michigan State,2016,MIA,Miami (FL),TRUE
+UNC,North Carolina,2016,ORE,Oregon,TRUE
+UNC,North Carolina,2016,GONZ,Gonzaga,TRUE
+SMC,Saint Mary's,2016,VCU,Virginia Commonwealth,TRUE
+WICH,Wichita State,2016,UK,Kentucky,FALSE
+ORE,Oregon,2016,UNC,North Carolina,FALSE
+WVU,West Virginia,2016,GONZ,Gonzaga,FALSE
+PUR,Purdue,2016,ISU,Iowa State,TRUE
+ARIZ,Arizona,2016,SMC,Saint Mary's,TRUE
+FLA,Florida,2016,UVA,Virginia,TRUE
+OKST,Oklahoma State,2016,MICH,Michigan,FALSE
+USC,USC,2016,SMU,SMU,TRUE
+NKU,Northern Kentucky,2016,UK,Kentucky,FALSE
+PUR,Purdue,2016,UVM,Vermont,TRUE
+MTU,Middle Tennessee,2016,MINN,Minnesota,TRUE
+ORE,Oregon,2016,URI,Rhode Island,TRUE
+ISU,Iowa State,2016,NEV,Nevada,TRUE
+BUT,Butler,2016,UNC,North Carolina,FALSE
+FSU,Florida State,2016,XAV,Xavier,FALSE
+ORE,Oregon,2016,IONA,Iona,TRUE
+ORE,Oregon,2016,MICH,Michigan,TRUE
+LOU,Louisville,2016,JVST,Jacksonville State,TRUE
+UVA,Virginia,2016,FLA,Florida,FALSE
+VCU,Virginia Commonwealth,2016,SMC,Saint Mary's,FALSE
+XAV,Xavier,2016,FSU,Florida State,TRUE
+LOU,Louisville,2016,MICH,Michigan,FALSE
+FGCU,Florida Gulf Coast,2016,FSU,Florida State,FALSE
+KSU,Kansas State,2016,CIN,Cincinnati,FALSE
+FLA,Florida,2016,SCAR,South Carolina,FALSE
+BUCK,Bucknell,2016,WVU,West Virginia,FALSE
+MINN,Minnesota,2016,MTU,Middle Tennessee,FALSE
+MIA,Miami (FL),2016,MSU,Michigan State,FALSE
+ORE,Oregon,2016,KU,Kansas,TRUE
+XAV,Xavier,2016,ARIZ,Arizona,TRUE
+WICH,Wichita State,2016,DAY,Dayton,TRUE
+SCAR,South Carolina,2016,BAY,Baylor,TRUE
+WVU,West Virginia,2016,ND,Notre Dame,TRUE
+FSU,Florida State,2016,FGCU,Florida Gulf Coast,TRUE
+KU,Kansas,2016,PUR,Purdue,TRUE
+BAY,Baylor,2016,USC,USC,TRUE
+WVU,West Virginia,2016,BUCK,Bucknell,TRUE
+NW,Northwestern,2016,VAN,Vanderbilt,TRUE
+UNC,North Carolina,2016,UK,Kentucky,TRUE
+ISU,Iowa State,2016,PUR,Purdue,FALSE
+UNC,North Carolina,2016,ARK,Arkansas,TRUE
+URI,Rhode Island,2016,ORE,Oregon,FALSE
+XAV,Xavier,2016,GONZ,Gonzaga,FALSE
+GONZ,Gonzaga,2016,XAV,Xavier,TRUE
+KU,Kansas,2016,UCD,UC Davis,TRUE
+USC,USC,2016,BAY,Baylor,FALSE
+SCAR,South Carolina,2016,DUKE,Duke,TRUE
+WIS,Wisconsin,2016,VT,Virginia Tech,TRUE
+UK,Kentucky,2016,WICH,Wichita State,TRUE
+UCD,UC Davis,2016,KU,Kansas,FALSE
+MARQ,Marquette,2016,SCAR,South Carolina,FALSE
+NEV,Nevada,2016,ISU,Iowa State,FALSE
+KU,Kansas,2016,ORE,Oregon,FALSE
+FLA,Florida,2016,ETSU,East Tennessee State,TRUE
+DAY,Dayton,2016,WICH,Wichita State,FALSE
+WIS,Wisconsin,2016,VILL,Villanova,TRUE
+URI,Rhode Island,2016,CREI,Creighton,TRUE
+ARIZ,Arizona,2016,UND,North Dakota,TRUE
+UNC,North Carolina,2016,BUT,Butler,TRUE
+UVM,Vermont,2016,PUR,Purdue,FALSE
+UNC,North Carolina,2016,TXSO,Texas Southern,TRUE
+SCAR,South Carolina,2016,FLA,Florida,TRUE
+FLA,Florida,2016,WIS,Wisconsin,TRUE
+CIN,Cincinnati,2016,KSU,Kansas State,TRUE
+KENT,Kent State,2016,UCLA,UCLA,FALSE
+XAV,Xavier,2016,MD,Maryland,TRUE
+IONA,Iona,2016,ORE,Oregon,FALSE
+ETSU,East Tennessee State,2016,FLA,Florida,FALSE
+GONZ,Gonzaga,2016,SCAR,South Carolina,TRUE
+PUR,Purdue,2016,KU,Kansas,FALSE
+WIS,Wisconsin,2016,FLA,Florida,FALSE
+BAY,Baylor,2016,NMSU,New Mexico State,TRUE
+DUKE,Duke,2016,SCAR,South Carolina,FALSE
+JVST,Jacksonville State,2016,LOU,Louisville,FALSE
+VILL,Villanova,2016,WIS,Wisconsin,FALSE
+BAY,Baylor,2016,SCAR,South Carolina,FALSE
+MICH,Michigan,2016,OKST,Oklahoma State,TRUE
+KU,Kansas,2016,MSU,Michigan State,TRUE
+GONZ,Gonzaga,2016,NW,Northwestern,TRUE
+UND,North Dakota,2016,ARIZ,Arizona,FALSE
+ND,Notre Dame,2016,PRIN,Princeton,TRUE
+MD,Maryland,2016,XAV,Xavier,FALSE
+UCLA,UCLA,2016,CIN,Cincinnati,TRUE
+MICH,Michigan,2016,ORE,Oregon,FALSE
+ARK,Arkansas,2016,HALL,Seton Hall,TRUE
+WIN,Winthrop,2016,BUT,Butler,FALSE
+UVA,Virginia,2016,UNCW,North Carolina-Wilmington,TRUE
+PRIN,Princeton,2016,ND,Notre Dame,FALSE
+UCLA,UCLA,2016,KENT,Kent State,TRUE
+UNCW,North Carolina-Wilmington,2016,UVA,Virginia,FALSE
+TXSO,Texas Southern,2016,UNC,North Carolina,FALSE
+MSU,Michigan State,2016,KU,Kansas,FALSE
+GONZ,Gonzaga,2016,SDST,South Dakota State,TRUE
+MICH,Michigan,2016,LOU,Louisville,TRUE
+VILL,Villanova,2016,MSM,Mount St. Mary's,TRUE
+CIN,Cincinnati,2016,UCLA,UCLA,FALSE
+TROY,Troy,2016,DUKE,Duke,FALSE
+DUKE,Duke,2016,TROY,Troy,TRUE
+HALL,Seton Hall,2016,ARK,Arkansas,FALSE
+XAV,Xavier,2015,WIS,Wisconsin,FALSE
+HAW,Hawaii,2015,CAL,California,TRUE
+YALE,Yale,2015,DUKE,Duke,FALSE
+KU,Kansas,2015,MD,Maryland,TRUE
+UK,Kentucky,2015,IND,Indiana,FALSE
+IOWA,Iowa,2015,VILL,Villanova,FALSE
+PEAY,Austin Peay,2015,KU,Kansas,FALSE
+UNC,North Carolina,2015,SYR,Syracuse,TRUE
+IONA,Iona,2015,ISU,Iowa State,FALSE
+MD,Maryland,2015,SDST,South Dakota State,TRUE
+BUT,Butler,2015,TTU,Texas Tech,TRUE
+UNC,North Carolina,2015,FGCU,Florida Gulf Coast,TRUE
+GONZ,Gonzaga,2015,UTAH,Utah,TRUE
+ORE,Oregon,2015,DUKE,Duke,TRUE
+UVA,Virginia,2015,HAMP,Hampton,TRUE
+ISU,Iowa State,2015,UVA,Virginia,FALSE
+BAY,Baylor,2015,YALE,Yale,FALSE
+SFA,Stephen F. Austin,2015,WVU,West Virginia,TRUE
+ISU,Iowa State,2015,UALR,Arkansas-Little Rock,TRUE
+TEX,Texas,2015,UNI,Northern Iowa,FALSE
+ORE,Oregon,2015,OKLA,Oklahoma,FALSE
+OKLA,Oklahoma,2015,ORE,Oregon,TRUE
+VCU,Virginia Commonwealth,2015,OKLA,Oklahoma,FALSE
+ND,Notre Dame,2015,WIS,Wisconsin,TRUE
+CIN,Cincinnati,2015,JOES,Saint Joseph's (PA),FALSE
+WIS,Wisconsin,2015,XAV,Xavier,TRUE
+COLO,Colorado,2015,CONN,Connecticut,FALSE
+UNCW,North Carolina-Wilmington,2015,DUKE,Duke,FALSE
+STON,Stony Brook,2015,UK,Kentucky,FALSE
+UALR,Arkansas-Little Rock,2015,ISU,Iowa State,FALSE
+UVA,Virginia,2015,SYR,Syracuse,FALSE
+SYR,Syracuse,2015,DAY,Dayton,TRUE
+TXAM,Texas A&M,2015,GB,Green Bay,TRUE
+MD,Maryland,2015,KU,Kansas,FALSE
+PROV,Providence,2015,UNC,North Carolina,FALSE
+VILL,Villanova,2015,UNCA,UNC Asheville,TRUE
+KU,Kansas,2015,CONN,Connecticut,TRUE
+DUKE,Duke,2015,YALE,Yale,TRUE
+TXAM,Texas A&M,2015,UNI,Northern Iowa,TRUE
+OKLA,Oklahoma,2015,VILL,Villanova,FALSE
+UNC,North Carolina,2015,ND,Notre Dame,TRUE
+HAMP,Hampton,2015,UVA,Virginia,FALSE
+BUFF,Buffalo,2015,MIA,Miami (FL),FALSE
+ND,Notre Dame,2015,MICH,Michigan,TRUE
+TEM,Temple,2015,IOWA,Iowa,FALSE
+OKLA,Oklahoma,2015,TXAM,Texas A&M,TRUE
+IND,Indiana,2015,UNC,North Carolina,FALSE
+SYR,Syracuse,2015,UVA,Virginia,TRUE
+FRES,Fresno State,2015,UTAH,Utah,FALSE
+ISU,Iowa State,2015,IONA,Iona,TRUE
+PITT,Pittsburgh,2015,WIS,Wisconsin,FALSE
+ORST,Oregon State,2015,VCU,Virginia Commonwealth,FALSE
+IND,Indiana,2015,CHAT,Chattanooga,TRUE
+JOES,Saint Joseph's (PA),2015,ORE,Oregon,FALSE
+MD,Maryland,2015,HAW,Hawaii,TRUE
+WIS,Wisconsin,2015,PITT,Pittsburgh,TRUE
+UNC,North Carolina,2015,IND,Indiana,TRUE
+TXAM,Texas A&M,2015,OKLA,Oklahoma,FALSE
+HC,Holy Cross,2015,ORE,Oregon,FALSE
+CONN,Connecticut,2015,KU,Kansas,FALSE
+MTU,Middle Tennessee,2015,SYR,Syracuse,FALSE
+VILL,Villanova,2015,OKLA,Oklahoma,TRUE
+TTU,Texas Tech,2015,BUT,Butler,FALSE
+ORE,Oregon,2015,HC,Holy Cross,TRUE
+HALL,Seton Hall,2015,GONZ,Gonzaga,FALSE
+WICH,Wichita State,2015,MIA,Miami (FL),FALSE
+UVA,Virginia,2015,ISU,Iowa State,TRUE
+VILL,Villanova,2015,IOWA,Iowa,TRUE
+MIA,Miami (FL),2015,VILL,Villanova,FALSE
+UNI,Northern Iowa,2015,TEX,Texas,TRUE
+UVA,Virginia,2015,BUT,Butler,TRUE
+KU,Kansas,2015,PEAY,Austin Peay,TRUE
+MIA,Miami (FL),2015,BUFF,Buffalo,TRUE
+WVU,West Virginia,2015,SFA,Stephen F. Austin,FALSE
+ND,Notre Dame,2015,SFA,Stephen F. Austin,TRUE
+CONN,Connecticut,2015,COLO,Colorado,TRUE
+GONZ,Gonzaga,2015,SYR,Syracuse,FALSE
+DAY,Dayton,2015,SYR,Syracuse,FALSE
+YALE,Yale,2015,BAY,Baylor,TRUE
+UNC,North Carolina,2015,VILL,Villanova,FALSE
+IND,Indiana,2015,UK,Kentucky,TRUE
+UALR,Arkansas-Little Rock,2015,PUR,Purdue,TRUE
+JOES,Saint Joseph's (PA),2015,CIN,Cincinnati,TRUE
+KU,Kansas,2015,VILL,Villanova,FALSE
+USC,USC,2015,PROV,Providence,FALSE
+FGCU,Florida Gulf Coast,2015,UNC,North Carolina,FALSE
+SFA,Stephen F. Austin,2015,ND,Notre Dame,FALSE
+MTU,Middle Tennessee,2015,MSU,Michigan State,TRUE
+OKLA,Oklahoma,2015,CSB,Cal State Bakersfield,TRUE
+ND,Notre Dame,2015,UNC,North Carolina,FALSE
+SYR,Syracuse,2015,UNC,North Carolina,FALSE
+MSU,Michigan State,2015,MTU,Middle Tennessee,FALSE
+UTAH,Utah,2015,FRES,Fresno State,TRUE
+PUR,Purdue,2015,UALR,Arkansas-Little Rock,FALSE
+UNI,Northern Iowa,2015,TXAM,Texas A&M,FALSE
+CAL,California,2015,HAW,Hawaii,FALSE
+VILL,Villanova,2015,UNC,North Carolina,TRUE
+ORE,Oregon,2015,JOES,Saint Joseph's (PA),TRUE
+UK,Kentucky,2015,STON,Stony Brook,TRUE
+VCU,Virginia Commonwealth,2015,ORST,Oregon State,TRUE
+WICH,Wichita State,2015,ARIZ,Arizona,TRUE
+SDST,South Dakota State,2015,MD,Maryland,FALSE
+GB,Green Bay,2015,TXAM,Texas A&M,FALSE
+DUKE,Duke,2015,ORE,Oregon,FALSE
+CHAT,Chattanooga,2015,IND,Indiana,FALSE
+MICH,Michigan,2015,ND,Notre Dame,FALSE
+WEB,Weber State,2015,XAV,Xavier,FALSE
+SYR,Syracuse,2015,MTU,Middle Tennessee,TRUE
+MIA,Miami (FL),2015,WICH,Wichita State,TRUE
+BUT,Butler,2015,UVA,Virginia,FALSE
+UNC,North Carolina,2015,PROV,Providence,TRUE
+UTAH,Utah,2015,GONZ,Gonzaga,FALSE
+DUKE,Duke,2015,UNCW,North Carolina-Wilmington,TRUE
+XAV,Xavier,2015,WEB,Weber State,TRUE
+PROV,Providence,2015,USC,USC,TRUE
+IOWA,Iowa,2015,TEM,Temple,TRUE
+VILL,Villanova,2015,MIA,Miami (FL),TRUE
+SYR,Syracuse,2015,GONZ,Gonzaga,TRUE
+CSB,Cal State Bakersfield,2015,OKLA,Oklahoma,FALSE
+GONZ,Gonzaga,2015,HALL,Seton Hall,TRUE
+ARIZ,Arizona,2015,WICH,Wichita State,FALSE
+UNCA,UNC Asheville,2015,VILL,Villanova,FALSE
+HAW,Hawaii,2015,MD,Maryland,FALSE
+OKLA,Oklahoma,2015,VCU,Virginia Commonwealth,TRUE
+WIS,Wisconsin,2015,ND,Notre Dame,FALSE
+VILL,Villanova,2015,KU,Kansas,TRUE
+UCLA,UCLA,2014,SMU,SMU,TRUE
+UK,Kentucky,2014,CIN,Cincinnati,TRUE
+NCST,North Carolina State,2014,VILL,Villanova,TRUE
+WICH,Wichita State,2014,KU,Kansas,TRUE
+MSU,Michigan State,2014,UVA,Virginia,TRUE
+VILL,Villanova,2014,NCST,North Carolina State,FALSE
+MISS,Ole Miss,2014,XAV,Xavier,FALSE
+UCLA,UCLA,2014,UAB,UAB,TRUE
+UVA,Virginia,2014,MSU,Michigan State,FALSE
+DUKE,Duke,2014,GONZ,Gonzaga,TRUE
+ARIZ,Arizona,2014,XAV,Xavier,TRUE
+HAMP,Hampton,2014,UK,Kentucky,FALSE
+LOU,Louisville,2014,NCST,North Carolina State,TRUE
+UCI,UC Irvine,2014,LOU,Louisville,FALSE
+UK,Kentucky,2014,HAMP,Hampton,TRUE
+ORE,Oregon,2014,WIS,Wisconsin,FALSE
+VILL,Villanova,2014,LAF,Lafayette,TRUE
+UGA,Georgia,2014,MSU,Michigan State,FALSE
+WVU,West Virginia,2014,BUFF,Buffalo,TRUE
+WOF,Wofford,2014,ARK,Arkansas,FALSE
+WIS,Wisconsin,2014,DUKE,Duke,FALSE
+NMSU,New Mexico State,2014,KU,Kansas,FALSE
+DUKE,Duke,2014,SDSU,San Diego State,TRUE
+ND,Notre Dame,2014,WICH,Wichita State,TRUE
+GONZ,Gonzaga,2014,DUKE,Duke,FALSE
+GAST,Georgia State,2014,XAV,Xavier,FALSE
+ARIZ,Arizona,2014,WIS,Wisconsin,FALSE
+GTWN,Georgetown,2014,EWU,Eastern Washington,TRUE
+ARIZ,Arizona,2014,OSU,Ohio State,TRUE
+IOWA,Iowa,2014,GONZ,Gonzaga,FALSE
+XAV,Xavier,2014,MISS,Ole Miss,TRUE
+BUT,Butler,2014,TEX,Texas,TRUE
+LOU,Louisville,2014,MSU,Michigan State,FALSE
+KU,Kansas,2014,WICH,Wichita State,FALSE
+WIS,Wisconsin,2014,UK,Kentucky,TRUE
+DUKE,Duke,2014,UTAH,Utah,TRUE
+UK,Kentucky,2014,WIS,Wisconsin,FALSE
+SDSU,San Diego State,2014,SJU,St. John's,TRUE
+RMU,Robert Morris,2014,DUKE,Duke,FALSE
+OKLA,Oklahoma,2014,ALBY,Albany,TRUE
+WVU,West Virginia,2014,UK,Kentucky,FALSE
+MD,Maryland,2014,VALP,Valparaiso,TRUE
+UK,Kentucky,2014,ND,Notre Dame,TRUE
+ND,Notre Dame,2014,NE,Northeastern,TRUE
+XAV,Xavier,2014,GAST,Georgia State,TRUE
+DUKE,Duke,2014,MSU,Michigan State,TRUE
+IOWA,Iowa,2014,DAV,Davidson,TRUE
+OKST,Oklahoma State,2014,ORE,Oregon,FALSE
+NDSU,North Dakota State,2014,GONZ,Gonzaga,FALSE
+CIN,Cincinnati,2014,UK,Kentucky,FALSE
+HARV,Harvard,2014,UNC,North Carolina,FALSE
+SFA,Stephen F. Austin,2014,UTAH,Utah,FALSE
+OKLA,Oklahoma,2014,DAY,Dayton,TRUE
+WYO,Wyoming,2014,UNI,Northern Iowa,FALSE
+PUR,Purdue,2014,CIN,Cincinnati,FALSE
+IND,Indiana,2014,WICH,Wichita State,FALSE
+UNI,Northern Iowa,2014,LOU,Louisville,FALSE
+UCLA,UCLA,2014,GONZ,Gonzaga,FALSE
+PROV,Providence,2014,DAY,Dayton,FALSE
+OSU,Ohio State,2014,VCU,Virginia Commonwealth,TRUE
+GTWN,Georgetown,2014,UTAH,Utah,FALSE
+TXSO,Texas Southern,2014,ARIZ,Arizona,FALSE
+BUT,Butler,2014,ND,Notre Dame,FALSE
+WICH,Wichita State,2014,IND,Indiana,TRUE
+UTAH,Utah,2014,DUKE,Duke,FALSE
+OKLA,Oklahoma,2014,MSU,Michigan State,FALSE
+GONZ,Gonzaga,2014,NDSU,North Dakota State,TRUE
+LOU,Louisville,2014,UNI,Northern Iowa,TRUE
+UK,Kentucky,2014,WVU,West Virginia,TRUE
+BEL,Belmont,2014,UVA,Virginia,FALSE
+WIS,Wisconsin,2014,CCAR,Coastal Carolina,TRUE
+UVA,Virginia,2014,BEL,Belmont,TRUE
+DAV,Davidson,2014,IOWA,Iowa,FALSE
+WIS,Wisconsin,2014,UNC,North Carolina,TRUE
+SMU,SMU,2014,UCLA,UCLA,FALSE
+OSU,Ohio State,2014,ARIZ,Arizona,FALSE
+MSU,Michigan State,2014,OKLA,Oklahoma,TRUE
+GONZ,Gonzaga,2014,IOWA,Iowa,TRUE
+UTAH,Utah,2014,SFA,Stephen F. Austin,TRUE
+ND,Notre Dame,2014,UK,Kentucky,FALSE
+LAF,Lafayette,2014,VILL,Villanova,FALSE
+NCST,North Carolina State,2014,LSU,LSU,TRUE
+KU,Kansas,2014,NMSU,New Mexico State,TRUE
+UAB,UAB,2014,ISU,Iowa State,TRUE
+ARK,Arkansas,2014,UNC,North Carolina,FALSE
+WVU,West Virginia,2014,MD,Maryland,TRUE
+ARK,Arkansas,2014,WOF,Wofford,TRUE
+LSU,LSU,2014,NCST,North Carolina State,FALSE
+WIS,Wisconsin,2014,ORE,Oregon,TRUE
+DUKE,Duke,2014,RMU,Robert Morris,TRUE
+WICH,Wichita State,2014,ND,Notre Dame,FALSE
+UNC,North Carolina,2014,ARK,Arkansas,TRUE
+ISU,Iowa State,2014,UAB,UAB,FALSE
+VCU,Virginia Commonwealth,2014,OSU,Ohio State,FALSE
+EWU,Eastern Washington,2014,GTWN,Georgetown,FALSE
+ARIZ,Arizona,2014,TXSO,Texas Southern,TRUE
+LOU,Louisville,2014,UCI,UC Irvine,TRUE
+BUFF,Buffalo,2014,WVU,West Virginia,FALSE
+WIS,Wisconsin,2014,ARIZ,Arizona,TRUE
+MD,Maryland,2014,WVU,West Virginia,FALSE
+UAB,UAB,2014,UCLA,UCLA,FALSE
+CCAR,Coastal Carolina,2014,WIS,Wisconsin,FALSE
+VALP,Valparaiso,2014,MD,Maryland,FALSE
+XAV,Xavier,2014,ARIZ,Arizona,FALSE
+UNI,Northern Iowa,2014,WYO,Wyoming,TRUE
+DAY,Dayton,2014,PROV,Providence,TRUE
+SJU,St. John's,2014,SDSU,San Diego State,FALSE
+CIN,Cincinnati,2014,PUR,Purdue,TRUE
+DAY,Dayton,2014,OKLA,Oklahoma,FALSE
+ALBY,Albany,2014,OKLA,Oklahoma,FALSE
+SDSU,San Diego State,2014,DUKE,Duke,FALSE
+NCST,North Carolina State,2014,LOU,Louisville,FALSE
+UNC,North Carolina,2014,WIS,Wisconsin,FALSE
+DUKE,Duke,2014,WIS,Wisconsin,TRUE
+ORE,Oregon,2014,OKST,Oklahoma State,TRUE
+GONZ,Gonzaga,2014,UCLA,UCLA,TRUE
+MSU,Michigan State,2014,LOU,Louisville,TRUE
+MSU,Michigan State,2014,DUKE,Duke,FALSE
+ND,Notre Dame,2014,BUT,Butler,TRUE
+TEX,Texas,2014,BUT,Butler,FALSE
+UTAH,Utah,2014,GTWN,Georgetown,TRUE
+GAST,Georgia State,2014,BAY,Baylor,TRUE
+UNC,North Carolina,2014,HARV,Harvard,TRUE
+BAY,Baylor,2014,GAST,Georgia State,FALSE
+MSU,Michigan State,2014,UGA,Georgia,TRUE
+NE,Northeastern,2014,ND,Notre Dame,FALSE
+BYU,Brigham Young,2013,ORE,Oregon,FALSE
+NMSU,New Mexico State,2013,SDSU,San Diego State,FALSE
+ARIZ,Arizona,2013,GONZ,Gonzaga,TRUE
+WIS,Wisconsin,2013,BAY,Baylor,TRUE
+PITT,Pittsburgh,2013,COLO,Colorado,TRUE
+WIS,Wisconsin,2013,UK,Kentucky,FALSE
+TEX,Texas,2013,ASU,Arizona State,TRUE
+PITT,Pittsburgh,2013,FLA,Florida,FALSE
+WIS,Wisconsin,2013,AMER,American University,TRUE
+STAN,Stanford,2013,DAY,Dayton,FALSE
+FLA,Florida,2013,CONN,Connecticut,FALSE
+FLA,Florida,2013,DAY,Dayton,TRUE
+EKY,Eastern Kentucky,2013,KU,Kansas,FALSE
+UNM,New Mexico,2013,STAN,Stanford,FALSE
+HARV,Harvard,2013,CIN,Cincinnati,TRUE
+UK,Kentucky,2013,WIS,Wisconsin,TRUE
+MSU,Michigan State,2013,UVA,Virginia,TRUE
+DAY,Dayton,2013,FLA,Florida,FALSE
+UVA,Virginia,2013,CCAR,Coastal Carolina,TRUE
+UK,Kentucky,2013,WICH,Wichita State,TRUE
+SYR,Syracuse,2013,WMU,Western Michigan,TRUE
+NEB,Nebraska,2013,BAY,Baylor,FALSE
+VILL,Villanova,2013,CONN,Connecticut,FALSE
+DUKE,Duke,2013,MER,Mercer,FALSE
+GONZ,Gonzaga,2013,OKST,Oklahoma State,TRUE
+MICH,Michigan,2013,UK,Kentucky,FALSE
+UK,Kentucky,2013,LOU,Louisville,TRUE
+UVA,Virginia,2013,MSU,Michigan State,FALSE
+NCST,North Carolina State,2013,SLU,Saint Louis,FALSE
+ORE,Oregon,2013,BYU,Brigham Young,TRUE
+SYR,Syracuse,2013,DAY,Dayton,FALSE
+WICH,Wichita State,2013,CP,Cal Poly,TRUE
+DAY,Dayton,2013,OSU,Ohio State,TRUE
+BAY,Baylor,2013,CREI,Creighton,TRUE
+CIN,Cincinnati,2013,HARV,Harvard,FALSE
+MICH,Michigan,2013,WOF,Wofford,TRUE
+ARIZ,Arizona,2013,SDSU,San Diego State,TRUE
+DEL,Delaware,2013,MSU,Michigan State,FALSE
+ARIZ,Arizona,2013,WEB,Weber State,TRUE
+KU,Kansas,2013,STAN,Stanford,FALSE
+HARV,Harvard,2013,MSU,Michigan State,FALSE
+PROV,Providence,2013,UNC,North Carolina,FALSE
+FLA,Florida,2013,ALBY,Albany,TRUE
+ISU,Iowa State,2013,UNC,North Carolina,TRUE
+KSU,Kansas State,2013,UK,Kentucky,FALSE
+MER,Mercer,2013,TENN,Tennessee,FALSE
+MAN,Manhattan,2013,LOU,Louisville,FALSE
+WOF,Wofford,2013,MICH,Michigan,FALSE
+ISU,Iowa State,2013,NCCU,North Carolina Central,TRUE
+LOU,Louisville,2013,UK,Kentucky,FALSE
+VCU,Virginia Commonwealth,2013,SFA,Stephen F. Austin,FALSE
+ULL,Louisiana-Lafayette,2013,CREI,Creighton,FALSE
+TEX,Texas,2013,MICH,Michigan,FALSE
+CCAR,Coastal Carolina,2013,UVA,Virginia,FALSE
+UCLA,UCLA,2013,FLA,Florida,FALSE
+UNC,North Carolina,2013,ISU,Iowa State,FALSE
+CREI,Creighton,2013,BAY,Baylor,FALSE
+CONN,Connecticut,2013,FLA,Florida,TRUE
+SLU,Saint Louis,2013,LOU,Louisville,FALSE
+GONZ,Gonzaga,2013,ARIZ,Arizona,FALSE
+SDSU,San Diego State,2013,NMSU,New Mexico State,TRUE
+MSU,Michigan State,2013,CONN,Connecticut,FALSE
+UVA,Virginia,2013,MEM,Memphis,TRUE
+BAY,Baylor,2013,WIS,Wisconsin,FALSE
+MER,Mercer,2013,DUKE,Duke,TRUE
+ISU,Iowa State,2013,CONN,Connecticut,FALSE
+CONN,Connecticut,2013,JOES,Saint Joseph's (PA),TRUE
+TLSA,Tulsa,2013,UCLA,UCLA,FALSE
+CONN,Connecticut,2013,VILL,Villanova,TRUE
+JOES,Saint Joseph's (PA),2013,CONN,Connecticut,FALSE
+ASU,Arizona State,2013,TEX,Texas,FALSE
+FLA,Florida,2013,PITT,Pittsburgh,TRUE
+WMU,Western Michigan,2013,SYR,Syracuse,FALSE
+UK,Kentucky,2013,CONN,Connecticut,FALSE
+NCCU,North Carolina Central,2013,ISU,Iowa State,FALSE
+CONN,Connecticut,2013,MSU,Michigan State,TRUE
+MASS,Massachusetts,2013,TENN,Tennessee,FALSE
+CONN,Connecticut,2013,ISU,Iowa State,TRUE
+SFA,Stephen F. Austin,2013,VCU,Virginia Commonwealth,TRUE
+NDSU,North Dakota State,2013,SDSU,San Diego State,FALSE
+LOU,Louisville,2013,SLU,Saint Louis,TRUE
+SFA,Stephen F. Austin,2013,UCLA,UCLA,FALSE
+SDSU,San Diego State,2013,NDSU,North Dakota State,TRUE
+BAY,Baylor,2013,NEB,Nebraska,TRUE
+STAN,Stanford,2013,KU,Kansas,TRUE
+ALBY,Albany,2013,FLA,Florida,FALSE
+CREI,Creighton,2013,ULL,Louisiana-Lafayette,TRUE
+MILW,Milwaukee,2013,VILL,Villanova,FALSE
+COLO,Colorado,2013,PITT,Pittsburgh,FALSE
+OKLA,Oklahoma,2013,NDSU,North Dakota State,FALSE
+ARIZ,Arizona,2013,WIS,Wisconsin,FALSE
+AMER,American University,2013,WIS,Wisconsin,FALSE
+MEM,Memphis,2013,GW,George Washington,TRUE
+UK,Kentucky,2013,MICH,Michigan,TRUE
+SLU,Saint Louis,2013,NCST,North Carolina State,TRUE
+LOU,Louisville,2013,MAN,Manhattan,TRUE
+MEM,Memphis,2013,UVA,Virginia,FALSE
+WIS,Wisconsin,2013,ARIZ,Arizona,TRUE
+OKST,Oklahoma State,2013,GONZ,Gonzaga,FALSE
+ORE,Oregon,2013,WIS,Wisconsin,FALSE
+VILL,Villanova,2013,MILW,Milwaukee,TRUE
+WEB,Weber State,2013,ARIZ,Arizona,FALSE
+DAY,Dayton,2013,SYR,Syracuse,TRUE
+STAN,Stanford,2013,UNM,New Mexico,TRUE
+OSU,Ohio State,2013,DAY,Dayton,FALSE
+UNC,North Carolina,2013,PROV,Providence,TRUE
+CONN,Connecticut,2013,UK,Kentucky,TRUE
+TENN,Tennessee,2013,MASS,Massachusetts,TRUE
+FLA,Florida,2013,UCLA,UCLA,TRUE
+MICH,Michigan,2013,TEX,Texas,TRUE
+WIS,Wisconsin,2013,ORE,Oregon,TRUE
+MICH,Michigan,2013,TENN,Tennessee,TRUE
+CP,Cal Poly,2013,WICH,Wichita State,FALSE
+MSU,Michigan State,2013,DEL,Delaware,TRUE
+TENN,Tennessee,2013,MICH,Michigan,FALSE
+NDSU,North Dakota State,2013,OKLA,Oklahoma,TRUE
+UCLA,UCLA,2013,SFA,Stephen F. Austin,TRUE
+UCLA,UCLA,2013,TLSA,Tulsa,TRUE
+SDSU,San Diego State,2013,ARIZ,Arizona,FALSE
+TENN,Tennessee,2013,MER,Mercer,TRUE
+MSU,Michigan State,2013,HARV,Harvard,TRUE
+KU,Kansas,2013,EKY,Eastern Kentucky,TRUE
+WICH,Wichita State,2013,UK,Kentucky,FALSE
+UK,Kentucky,2013,KSU,Kansas State,TRUE
+DAY,Dayton,2013,STAN,Stanford,TRUE
+GW,George Washington,2013,MEM,Memphis,FALSE
